@@ -1,0 +1,7 @@
+{"extensionName": "Scratch2Sphero",
+  "extensionPort": 11235,
+   "blockSpecs":[
+    [" ", "roll sphero at direction %n with power %n", "roll", 0, 100],
+    [" ", "set sphero color to r: %n g: %n b: %n", "setRGB", 255, 255, 255]
+]
+}

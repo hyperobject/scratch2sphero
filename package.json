@@ -1,0 +1,6 @@
+{
+  "name": "scratch2sphero",
+  "version": 1.0.0,
+  "dependencies": ["node-sphero", "http"],
+  "main": "scratch2sphero.js"
+}
